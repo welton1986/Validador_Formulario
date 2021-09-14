@@ -23,6 +23,11 @@ body {
     background-color: #DDD;
     padding: 50px;
 }
+
+.rightside h1 {
+    text-align: center;
+}
+
 .rightside label {
     display: block;
     margin-bottom: 20px;
