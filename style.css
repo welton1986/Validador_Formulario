@@ -48,3 +48,12 @@ body {
     padding: 4px;
     border-radius: 5px;
 }
+
+@media (max-width:800px){
+    .screen {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
